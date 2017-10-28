@@ -4,8 +4,5 @@ title: About
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+我叫zhuhz，软件工程师，英文名victor(维克托)，他们叫我庄神。 :+1:
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
